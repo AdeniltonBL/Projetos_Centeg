@@ -1,0 +1,14 @@
+C:\Projetos_Centeg\retangulo\bin\Debug\net8.0\retangulo.exe
+C:\Projetos_Centeg\retangulo\bin\Debug\net8.0\retangulo.deps.json
+C:\Projetos_Centeg\retangulo\bin\Debug\net8.0\retangulo.runtimeconfig.json
+C:\Projetos_Centeg\retangulo\bin\Debug\net8.0\retangulo.dll
+C:\Projetos_Centeg\retangulo\bin\Debug\net8.0\retangulo.pdb
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\retangulo.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\retangulo.AssemblyInfo.vb
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\retangulo.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\retangulo.dll
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\refint\retangulo.dll
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\retangulo.pdb
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\retangulo.genruntimeconfig.cache
+C:\Projetos_Centeg\retangulo\obj\Debug\net8.0\ref\retangulo.dll
