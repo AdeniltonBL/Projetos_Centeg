@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\vetores\bin\Debug\net8.0\vetores.exe
+C:\Projetos_Centeg\vetores\bin\Debug\net8.0\vetores.deps.json
+C:\Projetos_Centeg\vetores\bin\Debug\net8.0\vetores.runtimeconfig.json
+C:\Projetos_Centeg\vetores\bin\Debug\net8.0\vetores.dll
+C:\Projetos_Centeg\vetores\bin\Debug\net8.0\vetores.pdb
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.AssemblyInfo.vb
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.sourcelink.json
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.dll
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\refint\vetores.dll
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.pdb
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\vetores.genruntimeconfig.cache
+C:\Projetos_Centeg\vetores\obj\Debug\net8.0\ref\vetores.dll
