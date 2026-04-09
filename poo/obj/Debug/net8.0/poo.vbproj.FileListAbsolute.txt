@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.AssemblyInfo.vb
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.sourcelink.json
+C:\Projetos_Centeg\poo\bin\Debug\net8.0\poo.exe
+C:\Projetos_Centeg\poo\bin\Debug\net8.0\poo.deps.json
+C:\Projetos_Centeg\poo\bin\Debug\net8.0\poo.runtimeconfig.json
+C:\Projetos_Centeg\poo\bin\Debug\net8.0\poo.dll
+C:\Projetos_Centeg\poo\bin\Debug\net8.0\poo.pdb
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.dll
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\refint\poo.dll
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.pdb
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\poo.genruntimeconfig.cache
+C:\Projetos_Centeg\poo\obj\Debug\net8.0\ref\poo.dll
